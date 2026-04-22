@@ -1,4 +1,4 @@
-# Electricity Bill Management System
+# Electricity Bill Management System using MySQL
 
 ## Project Overview
 This project is a centralized database solution designed to modernize traditional electricity billing procedures by replacing manual data entry with an automated system.
