@@ -5,7 +5,9 @@ This project is a centralized database solution designed to modernize traditiona
 
 ## Goals and Objectives
 **Centralize Data Management**: Consolidating consumer, meter, and billing history.
+
 **Real-Time Monitoring**: Tracking electricity distribution and consumption.
+
 **Error Reduction**: Minimizing human entry errors through automated processes.
 
 ## Database Schema
